@@ -13,3 +13,4 @@ ZCZC W01 105 L02 Tuesday OS ZOOM meeting
 ZCZC W01 95 L02 Thursday OS ZOOM Meeting
 ZCZC W01 5 L05 Quiz week 01
 ZCZC W01 20 L41 Updating TXT/mylog.txt for OSWEEK 01 
+ZCZC W01 150 L09 Reading assignment week 01
