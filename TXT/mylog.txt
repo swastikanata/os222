@@ -8,9 +8,18 @@ ZCZC W00 110 L02 Tuesday OS ZOOM meeting
 ZCZC W00 90 L02 Thursday OS ZOOM meeting
 ZCZC W00 150 L09 Reading assignment week 00
 ZCZC W00 5 L05 Quiz week 00
-ZCZC W01 20 L01 Read thru SCELE
+ZCZC W01 20 L01 Read through SCELE
 ZCZC W01 105 L02 Tuesday OS ZOOM meeting
 ZCZC W01 95 L02 Thursday OS ZOOM Meeting
 ZCZC W01 5 L05 Quiz week 01
 ZCZC W01 20 L41 Updating TXT/mylog.txt for OSWEEK 01 
 ZCZC W01 150 L09 Reading assignment week 01
+ZCZC W02 150 L09 Reading assignment week 02
+ZCZC W02 110 L02 Week02 Tuesday OS ZOOM meeting
+ZCZC W02 15 L09 Generate and upload GPG key
+ZCZC W02 10 L09 Download scripts
+ZCZC W02 115 L02 Week02 Thursday OS ZOOM meeting
+ZCZC W02 60 L09 Find and update links
+ZCZC W02 10 L05 Week02 Quiz
+ZCZC W02 50 L23 Review Bash, Regex, AWK
+ZCZC W02 20 L09 Finishing and pushing to GitHub
