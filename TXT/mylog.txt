@@ -23,3 +23,11 @@ ZCZC W02 60 L09 Find and update links
 ZCZC W02 10 L05 Week02 Quiz
 ZCZC W02 50 L23 Review Bash, Regex, AWK
 ZCZC W02 20 L09 Finishing and pushing to GitHub
+ZCZC W03 150 L09 Reading assignment week 03
+ZCZC W03 120 L02 Week03 Tuesday OS Zoom meeting
+ZCZC W03 60 L09 Create extra virtual disk
+ZCZC W03 10 L05 Week03 Quiz02
+ZCZC W03 10 L05 Week03 Quiz01
+ZCZC W03 105 L99 Week03 Thursday Face-to-face lecture
+ZCZC W03 10 L09 Week03 finishing
+
