@@ -25,11 +25,21 @@ We learned about permission in the second class of week 2, so we were using the 
 Learned C programming in week 2. The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.
 
 ## Week 03
-1. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+1. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 An article that explains straightforwardly about the important things that we need to know about FUSE.
 
-2. [Introduction to File Systems](https://www.ufsexplorer.com/articles/file-systems-basics/)
+2. [Introduction to File Systems](https://www.ufsexplorer.com/articles/file-systems-basics/)<br>
 This link presents a summary about what a file system is and gives examples. Short but detailed.
 
-3. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
+3. [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 Yes, it is a 100 seconds video. Even though it's only 100 seconds, it explains most of the things that we need to know about FHS. Basically a crash course.
+
+## Week 04
+1. [Introduction to Pointers in C](Introduction to Pointers in C)<br>
+This video explains about pointer with illustration to make it easier to grasp. I found this video valuable because when learning C programming, we use pointer a lot.
+
+2. [C memory addresses](https://youtu.be/1KVpi0VN82E)<br>
+This video gives explanation about the way memory addresses work in C programming. The video explains the concept with fun analogies and gives a lot of examples.
+
+3. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
+This site explains about linking, which is basically connecting external programs needed to execute program that we write. This site basically explains the differences between dynamic and static linking.
