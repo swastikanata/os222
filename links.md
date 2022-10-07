@@ -43,3 +43,13 @@ This video gives explanation about the way memory addresses work in C programmin
 
 3. [Dynamic & Static Linking](https://cs-fundamentals.com/tech-interview/c/difference-between-static-and-dynamic-linking)<br>
 This site explains about linking, which is basically connecting external programs needed to execute program that we write. This site basically explains the differences between dynamic and static linking.
+
+## Week 05
+1. [Paging - OS Dev Wiki](https://wiki.osdev.org/Paging)<br>
+This Wiki explains about paging, as well as the benefits, page faults, and more. It contains a LOT of information.
+
+2. [How computer memory works - Kanawat Senanan](https://youtu.be/p3q5zWCw8J4)<br>
+This video is a ted-ed video thate explains the way memory works in our computer. It helps because it's not only spitting informations, but also visualizes the processes hapeening inside the computer. It also gives explanations about why hard drive deterioriates.
+
+3. [Shared Libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)<br>
+This is an article explaining about shared library with hands-on point of view. Shared library basically allows pre-compiled code to be used and shared by different programs that need it.
