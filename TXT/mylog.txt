@@ -54,3 +54,15 @@ ZCZC W05 10 L05 Do the OS quiz1
 ZCZC W05 30 L05 Do Pop Quiz 1 & 2
 ZCZC W05 10 L09 Week04 finishing
 ZCZC W05 10 L03 Push to GitHub
+ZCZC W06 10 L06 Reading references
+ZCZC W06 120 L11 Reading references assignment6
+ZCZC W06 15 L12 trying low memory
+ZCZC W06 100 L05 Study and search reference to prepare for OS quiz02
+ZCZC W06 5 L05 Do the OS quiz02
+ZCZC W06 100 L02 Week06 Tuesday OS Zoom meeting
+ZCZC W06 95 L99 Week06 Thursday Face-to-face lecture
+ZCZC W06 100 L05 Study and search reference to prepare for OS quiz1
+ZCZC W06 10 L05 Do the OS quiz1
+ZCZC W06 40 L05 Do Pop Quiz 1,2, and 3
+ZCZC W06 10 L09 Week06 finishing
+ZCZC W06 10 L03 Push to GitHub

@@ -53,3 +53,13 @@ This video is a ted-ed video thate explains the way memory works in our computer
 
 3. [Shared Libraries](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)<br>
 This is an article explaining about shared library with hands-on point of view. Shared library basically allows pre-compiled code to be used and shared by different programs that need it.
+
+## Week 06
+1. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+fork() function is the primary method of process creation on Unix-like operation. This function creates a copy called a child out of the original process, which is called the parent. Note that the fork() function only works on Linux or Unix based operating system. You should check out this article for more interesting info about fork!
+
+2. [How to Running Processes in Linux](https://www.hostinger.com/tutorials/vps/how-to-manage-processes-in-linux-using-command-line)<br>
+This link explains about how to run a process in Linux operating system. The site has a good UI and also gives explanation in a simple way. It also explains different commands that are useful to run processes.
+
+3. [Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, system registers which hold its current working variables, and a stack which contains the execution history.
