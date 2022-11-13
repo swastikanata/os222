@@ -63,3 +63,14 @@ This link explains about how to run a process in Linux operating system. The sit
 
 3. [Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
 A thread is a flow of execution through the process code, with its own program counter that keeps track of which instruction to execute next, system registers which hold its current working variables, and a stack which contains the execution history.
+
+## Week 07
+1. [Proccess Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)<br>
+This is a 20-minutes video explaining a lot about process synchronization. It gaves both general and quite detailed information. Well, it's Neso Academy, so you should expect something.
+
+2. [Process Synchronization & Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+This one is just a short note that explains about process synchronization and deadlock. It gives short summary about the materials. Good for you if you have little time to study about the concept.
+
+3. [Deadlock, Livelock, and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+In some cases, process needs to wait. Sometimes, the waiting process never succeds and there are 3 scenarios: deadlock, livelock, and starvation. This article basically explains about those concepts.
+
