@@ -74,3 +74,12 @@ This one is just a short note that explains about process synchronization and de
 3. [Deadlock, Livelock, and Starvation](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
 In some cases, process needs to wait. Sometimes, the waiting process never succeds and there are 3 scenarios: deadlock, livelock, and starvation. This article basically explains about those concepts.
 
+## Week 08
+1. [Process Scheduling](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)<br>
+Starting this week, our assignments are about to do Linux From Scratch (LFS). This is a youtube playlist from sxurce cxde about how to do LFS. I think their playlist is useful especially for someone who needs verbal instructions instead of read them from the LFS books.
+
+2. [Linux From Scratch (ID)](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)<br>
+This page gives some summary about process scheduling in operating system. The source of it is same with our lecturer recommendation book from Silberschatz.
+
+3. [Multiple-Processor Process Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This page explains a deeper understanding about multiprocessor scheduling.
