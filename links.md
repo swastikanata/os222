@@ -83,3 +83,13 @@ This page gives some summary about process scheduling in operating system. The s
 
 3. [Multiple-Processor Process Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This page explains a deeper understanding about multiprocessor scheduling.
+
+## Week09
+1. [What is BIOS?](https://www.youtube.com/watch?v=ncUmWthHrU0)<br>
+This video explain about basic Input/Output System In computing. BIOS is firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs.
+
+2. [https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/](https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/)<br>
+RAID is explained as a Redundant Array of Inexpensive disks, but nowadays it is called Redundant Array of Independent drives. You can get to know about RAID in Linux in this article.
+
+3. [RAID level 0, 1, 5, 6 and 10 | Advantage, disadvantage, use](https://www.prepressure.com/library/technology/raid)<br>
+This is a comprehensive article about RAID. It has an extensive information about RAID 0, 1, 5, 6, and 10. There are some visualization, too, to help you to comprehend the materials better. I recommend this article as a headstart to understand the basics of RAID.

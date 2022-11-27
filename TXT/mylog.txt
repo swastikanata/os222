@@ -89,3 +89,14 @@ ZCZC W08 600 L09 LFS chapter 1-5
 ZCZC W08 40 L05 Do Pop Quiz 1, 2, 3, and 4
 ZCZC W08 10 L09 Week08 finishing
 ZCZC W08 10 L03 Push to GitHub
+ZCZC W09 10 L06 Reading references
+ZCZC W09 120 L11 Reading references assignment9
+ZCZC W09 100 L05 Study and search reference to prepare for OS quiz02
+ZCZC W09 5 L05 Do the OS quiz02
+ZCZC W09 100 L99 Week08 Tuesday Face-to-face lecture
+ZCZC W09 95 L02 Week08 Thursday OS Zoom meeting
+ZCZC W09 100 L05 Study and search reference to prepare for OS quiz1
+ZCZC W09 10 L05 Do the OS quiz1
+ZCZC W09 10 L05 Do Pop Quiz 1
+ZCZC W09 10 L09 Week09 finishing
+ZCZC W09 10 L03 Push to GitHub
