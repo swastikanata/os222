@@ -100,3 +100,14 @@ ZCZC W09 10 L05 Do the OS quiz1
 ZCZC W09 10 L05 Do Pop Quiz 1
 ZCZC W09 10 L09 Week09 finishing
 ZCZC W09 10 L03 Push to GitHub
+ZCZC W10 10 L06 Reading references
+ZCZC W10 120 L11 Reading references assignment10
+ZCZC W10 100 L05 Study and search reference to prepare for OS quiz02
+ZCZC W10 5 L05 Do the OS quiz02
+ZCZC W10 100 L99 Week08 Tuesday Face-to-face lecture
+ZCZC W10 95 L02 Week08 Thursday OS Zoom meeting
+ZCZC W10 100 L05 Study and search reference to prepare for OS quiz1
+ZCZC W10 10 L05 Do the OS quiz1
+ZCZC W10 10 L05 Do Pop Quiz 1
+ZCZC W10 10 L09 Week09 finishing
+ZCZC W10 10 L03 Push to GitHub
